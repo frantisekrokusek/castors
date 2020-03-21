@@ -65,3 +65,4 @@ gem 'devise-bootstrap-views'
 
 # Mailjet
 gem 'mailjet'
+gem "font-awesome-rails"
